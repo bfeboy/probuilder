@@ -3376,3 +3376,126 @@ Received Import Request.
 Start importing Assets/PREFABS1/ROCK.prefab using Guid(078bbcbe72133bc439a29c9444e4cbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e578ed25156ef63f82f6a7a14e734ff7') in 0.002403 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 665.261618 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ee035d6db43cec84c1bc52cdd2266a') in 0.009004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 1.778614 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ecab42a1631b21c1cf6c1eb3960d8e') in 0.010335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 2.397966 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64bb5473f772cabde70a0302c798ca63') in 0.009630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 1.826426 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f186516f9d50e7fcdd36b0682fb85b2') in 0.008783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.994084 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4314dd2e258bc498b7dc6ba7065d387') in 0.009252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 4.055079 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa97114942ab0cb3b1ae2a3c4403dc7') in 0.008700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 5.244070 seconds.
+  path: Assets/PREFABS1/tree v1.prefab
+  artifactKey: Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS1/tree v1.prefab using Guid(63f6fb5d165e9054cbfccba54124391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6a0b16fae1911656998db78d29b238') in 0.009406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.456 seconds
+Refreshing native plugins compatible for Editor in 3.19 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 11.407 seconds
+Domain Reload Profiling: 11857ms
+	BeginReloadAssembly (157ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (218ms)
+		LoadAssemblies (284ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (11407ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (401ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (280ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3431 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (78.1 KB). Loaded Objects now: 3967.
+Memory consumption went from 138.4 MB to 138.3 MB.
+Total: 2.153100 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.832100 ms  DeleteObjects: 0.073100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
